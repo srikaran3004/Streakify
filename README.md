@@ -1,2 +1,2 @@
 # Streakify
-A simple Python script that automatically increments a number in a text file and commits the change to git. Perfect for maintaining a daily commit streak or tracking sequential values.
+Streakify is a Python-based automation tool designed to help developers maintain their GitHub streaks effortlessly. By automating daily contributions, Streakify ensures you never miss a day, keeping your GitHub activity graph consistently green. Whether you're working on a personal project or just want to showcase your commitment, Streakify makes it easy to stay on track and build an impressive profile.
